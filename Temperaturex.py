@@ -20,3 +20,5 @@ elif marks >= 50:
     print("Grade: Pass 👍")
 else:
     print("Grade: Fail ❌")
+
+    #print we are learning advanced git & github
