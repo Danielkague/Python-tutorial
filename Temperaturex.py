@@ -22,3 +22,4 @@ else:
     print("Grade: Fail ❌")
 
     #print we are learning advanced git & github
+    print("its getting hot")
