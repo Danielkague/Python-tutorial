@@ -1,0 +1,1 @@
+print("Kenya is beautiful")
